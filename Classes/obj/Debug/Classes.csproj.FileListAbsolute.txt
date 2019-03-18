@@ -1,0 +1,6 @@
+C:\Users\Stojmilova\Desktop\C#\Петта домашна -Generic collections\Homework-GenericCollections\Classes\bin\Debug\Classes.dll
+C:\Users\Stojmilova\Desktop\C#\Петта домашна -Generic collections\Homework-GenericCollections\Classes\bin\Debug\Classes.pdb
+C:\Users\Stojmilova\Desktop\C#\Петта домашна -Generic collections\Homework-GenericCollections\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Stojmilova\Desktop\C#\Петта домашна -Generic collections\Homework-GenericCollections\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Stojmilova\Desktop\C#\Петта домашна -Generic collections\Homework-GenericCollections\Classes\obj\Debug\Classes.dll
+C:\Users\Stojmilova\Desktop\C#\Петта домашна -Generic collections\Homework-GenericCollections\Classes\obj\Debug\Classes.pdb
